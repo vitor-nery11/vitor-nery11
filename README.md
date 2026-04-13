@@ -1,47 +1,95 @@
-Olá, eu sou o [Teu Nome]! 👋
+# 👋 Olá, eu sou o Vitor Nery!
 
-🎓 Estudante de Engenharia de Software
+🎓 Estudante de **Engenharia de Software**  
+💻 Apaixonado por **tecnologia, programação e desenvolvimento de software**
 
-Seja bem-vindo(a) ao meu perfil! Sou um entusiasta de tecnologia em constante aprendizagem, focado em construir soluções eficientes e em expandir os meus conhecimentos em desenvolvimento de software.
+Seja bem-vindo(a) ao meu perfil! Estou sempre buscando aprender novas tecnologias e desenvolver projetos que aprimorem minhas habilidades como programador.
 
-🚀 Sobre Mim
+---
 
-🏫 Atualmente a frequentar a licenciatura em Engenharia de Software.
+# 🚀 Sobre Mim
 
-☕ Tenho uma base sólida em Java, onde dei os meus primeiros passos na programação orientada a objetos (POO).
+🎓 Cursando **Engenharia de Software**
 
-🐍 Neste momento, estou focado no ecossistema Python, a explorar automação e lógica de programação.
+☕ Experiência inicial com **Java e Programação Orientada a Objetos (POO)**
 
-🗄️ Aprofundando conhecimentos em modelação e manipulação de dados com MySQL.
+🐍 Estudando e explorando **Python**
 
-🌱 Procuro constantemente aprender novas ferramentas e boas práticas de arquitetura.
+🗄️ Aprendendo **modelagem e manipulação de dados com MySQL**
 
-🛠️ Tecnologias e Ferramentas
+📚 Sempre buscando evoluir em **boas práticas de desenvolvimento e arquitetura de software**
 
-Linguagens e Base de Dados:
+---
 
-Ferramentas e Ambiente:
+# 🛠️ Tecnologias e Ferramentas
 
-📊 Estatísticas do GitHub
+### 💻 Linguagens
+<p>
+<img src="https://skillicons.dev/icons?i=java,python" />
+</p>
+
+### 🗄️ Banco de Dados
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### ⚙️ Ferramentas
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+# 📊 Estatísticas do GitHub
 
 <div align="center">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3D[TEU-UTILIZADOR-AQUI]&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D[TEU-UTILIZADOR-AQUI]&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitor-nery11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-nery11&layout=compact&langs_count=7&theme=tokyonight"/>
+
 </div>
 
-📫 Como me encontrar
+---
+
+# 🔥 Contribuições
 
 <div align="center">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/[TEU-LINKEDIN]">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/linkedin-%25230077B5.svg%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
-</a>
-<a href="mailto:teu-email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vitor-nery11&theme=tokyonight" />
+
 </div>
 
-<br />
+---
+
+# 🐍 Snake das contribuições
 
 <div align="center">
-<sub>Feito com ❤️ por [Teu Nome]</sub>
+
+![snake gif](https://github.com/vitor-nery11/vitor-nery11/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+# 📫 Contato
+
+<p align="center">
+
+<a href="https://linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:seuemail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+⭐ **Se gostar dos meus projetos, considere dar uma estrela!**
+
 </div>
