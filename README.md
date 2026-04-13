@@ -1,36 +1,47 @@
-Olá, eu sou o [Seu Nome]! 👋
+Olá, eu sou o [Teu Nome]! 👋
 
 🎓 Estudante de Engenharia de Software
 
-Seja bem-vindo(a) ao meu perfil! Sou um apaixonado por tecnologia em constante aprendizado, focado em construir soluções eficientes e escalar meus conhecimentos em desenvolvimento de software.
+Seja bem-vindo(a) ao meu perfil! Sou um entusiasta de tecnologia em constante aprendizagem, focado em construir soluções eficientes e em expandir os meus conhecimentos em desenvolvimento de software.
 
 🚀 Sobre Mim
 
-🏫 Atualmente cursando Engenharia de Software.
+🏫 Atualmente a frequentar a licenciatura em Engenharia de Software.
 
-☕ Tenho uma base sólida em Java, onde dei meus primeiros passos na programação orientada a objetos.
+☕ Tenho uma base sólida em Java, onde dei os meus primeiros passos na programação orientada a objetos (POO).
 
-🐍 No momento, estou mergulhado no ecossistema Python, explorando automações e lógica avançada.
+🐍 Neste momento, estou focado no ecossistema Python, a explorar automação e lógica de programação.
 
-🗄️ Estudando modelagem e manipulação de dados com MySQL.
+🗄️ Aprofundando conhecimentos em modelação e manipulação de dados com MySQL.
 
-🌱 Buscando constantemente aprender novas ferramentas e boas práticas de arquitetura.
+🌱 Procuro constantemente aprender novas ferramentas e boas práticas de arquitetura.
 
 🛠️ Tecnologias e Ferramentas
 
-Linguagens e Banco de Dados:
+Linguagens e Base de Dados:
 
 Ferramentas e Ambiente:
 
 📊 Estatísticas do GitHub
 
 <div align="center">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3D[SEU-USUARIO-AQUI]&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D[SEU-USUARIO-AQUI]&layout=compact&langs_count=7&theme=radical"/>
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3D[TEU-UTILIZADOR-AQUI]&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D[TEU-UTILIZADOR-AQUI]&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas" />
 </div>
 
 📫 Como me encontrar
 
 <div align="center">
-<sub>Feito com ❤️ por [Seu Nome]</sub>
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/[TEU-LINKEDIN]">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/linkedin-%25230077B5.svg%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
+</a>
+<a href="mailto:teu-email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+</div>
+
+<br />
+
+<div align="center">
+<sub>Feito com ❤️ por [Teu Nome]</sub>
 </div>
