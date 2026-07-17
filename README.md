@@ -1,10 +1,10 @@
-# Olá! 👋 Eu sou o Vitor Nery
+# Olá!  Eu sou o Vitor Nery
 
 💻 Desenvolvedor Backend em formação, apaixonado por tecnologia e por resolver problemas através da programação.
 
 Atualmente estou focado em me tornar um desenvolvedor Backend especializado em **Python**, construindo projetos práticos e estudando diariamente para evoluir minhas habilidades.
 
-## 🚀 Atualmente estudando
+##  Atualmente estudando
 
 - Python
 - Programação Orientada a Objetos (POO)
