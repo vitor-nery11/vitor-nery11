@@ -1,95 +1,77 @@
-# 👋 Olá, eu sou o Vitor Nery!
+# Olá! 👋 Eu sou o Vitor Nery
 
-🎓 Estudante de **Engenharia de Software**  
-💻 Apaixonado por **tecnologia, programação e desenvolvimento de software**
+💻 Desenvolvedor Backend em formação, apaixonado por tecnologia e por resolver problemas através da programação.
 
-Seja bem-vindo(a) ao meu perfil! Estou sempre buscando aprender novas tecnologias e desenvolver projetos que aprimorem minhas habilidades como programador.
+Atualmente estou focado em me tornar um desenvolvedor Backend especializado em **Python**, construindo projetos práticos e estudando diariamente para evoluir minhas habilidades.
 
----
+## 🚀 Atualmente estudando
 
-# 🚀 Sobre Mim
+- Python
+- Programação Orientada a Objetos (POO)
+- FastAPI
+- SQL
+- Git e GitHub
+- APIs REST
+- Inglês 🇺🇸
 
-🎓 Cursando **Engenharia de Software**
+## 🛠️ Tecnologias
 
-☕ Experiência inicial com **Java e Programação Orientada a Objetos (POO)**
+### Linguagens
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-🐍 Estudando e explorando **Python**
+### Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-🗄️ Aprendendo **modelagem e manipulação de dados com MySQL**
+### Banco de Dados
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-📚 Sempre buscando evoluir em **boas práticas de desenvolvimento e arquitetura de software**
-
----
-
-# 🛠️ Tecnologias e Ferramentas
-
-### 💻 Linguagens
-<p>
-<img src="https://skillicons.dev/icons?i=java,python" />
-</p>
-
-### 🗄️ Banco de Dados
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### ⚙️ Ferramentas
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+### Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-# 📊 Estatísticas do GitHub
+## 📚 Projetos
 
-<div align="center">
+Aqui você encontrará projetos desenvolvidos durante meus estudos, colocando em prática conceitos de:
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitor-nery11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+- APIs REST
+- Automação com Python
+- Banco de Dados
+- Lógica de Programação
+- Backend
+- Projetos para resolver problemas reais
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-nery11&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🔥 Contribuições
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vitor-nery11&theme=tokyonight" />
-
-</div>
+Meu objetivo é que cada repositório represente uma evolução na minha jornada como desenvolvedor.
 
 ---
 
-# 🐍 Snake das contribuições
+## 🎯 Objetivos
 
-<div align="center">
-
-![snake gif](https://github.com/vitor-nery11/vitor-nery11/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-# 📫 Contato
-
-<p align="center">
-
-<a href="https://linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:seuemail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</p>
+- Tornar-me Desenvolvedor Backend Python.
+- Aprender arquitetura de software e boas práticas.
+- Dominar bancos de dados relacionais.
+- Evoluir para Engenharia de Dados no futuro.
+- Contribuir para projetos Open Source.
 
 ---
 
-<div align="center">
+## 📈 Estatísticas
 
-⭐ **Se gostar dos meus projetos, considere dar uma estrela!**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
 
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: https://linkedin.com/in/SEU-LINK
+- 📧 Email: seuemail@email.com
+
+---
+
+⭐ Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e acompanhar minha evolução como desenvolvedor.
