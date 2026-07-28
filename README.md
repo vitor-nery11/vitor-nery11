@@ -69,8 +69,8 @@ Meu objetivo é que cada repositório represente uma evolução na minha jornada
 
 ## 📫 Contato
 
-- 💼 LinkedIn: https://linkedin.com/in/SEU-LINK
-- 📧 Email: seuemail@email.com
+- 💼 LinkedIn: https://www.linkedin.com/in/vitor-nery-dev/
+- 📧 Email: vitornerysantos24@gmail.com 
 
 ---
 
