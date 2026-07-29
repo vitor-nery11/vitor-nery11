@@ -120,37 +120,6 @@ Projeto desenvolvido para estudo de APIs REST.
 Projetos voltados para automação de tarefas utilizando Selenium.
 
 ---
-
-# 🎯 Objetivos
-
-- Conseguir minha primeira oportunidade como Desenvolvedor Backend Python
-
-- Aprimorar arquitetura de software
-
-- Dominar Docker
-
-- Aprender CI/CD
-
-- Contribuir para projetos Open Source
-
-- Evoluir futuramente para Engenharia de Dados
-
----
-
-# 📈 Estatísticas
-
-<p align="center">
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=vitor-nery11&show_icons=true&theme=tokyonight"/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-nery11&layout=compact&theme=tokyonight"/>
-
-</p>
-
 ---
 
 # 🔥 Sequência de Contribuições
