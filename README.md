@@ -1,14 +1,38 @@
-# 👋 Olá! Eu sou o Vitor Nery
+<h1 align="center">Olá, eu sou o Vitor Nery 👋</h1>
 
-💻 Desenvolvedor Backend Python em formação, apaixonado por criar soluções através da programação.
+<h3 align="center">
+Desenvolvedor Backend Python • FastAPI • Flask • PostgreSQL
+</h3>
 
-Atualmente estou aprofundando meus conhecimentos no desenvolvimento de APIs, arquitetura backend e bancos de dados relacionais, construindo projetos práticos para evoluir constantemente como desenvolvedor.
+<p align="center">
+Apaixonado por tecnologia, desenvolvimento backend e resolução de problemas através da programação.
+</p>
 
-Meu objetivo é conquistar uma oportunidade como **Desenvolvedor Backend Python**, contribuindo com soluções escaláveis e de qualidade enquanto continuo evoluindo tecnicamente.
+<p align="center">
+
+<a href="https://github.com/vitor-nery11">
+<img src="https://img.shields.io/github/followers/vitor-nery11?style=social">
+</a>
+
+<a href="https://github.com/vitor-nery11">
+<img src="https://komarev.com/ghpvc/?username=vitor-nery11&color=blue">
+</a>
+
+</p>
 
 ---
 
-## 🚀 Atualmente estudando
+# 👨‍💻 Sobre mim
+
+Sou um Desenvolvedor Backend em formação, focado no ecossistema Python.
+
+Atualmente desenvolvo projetos para colocar em prática conceitos de APIs REST, autenticação, banco de dados, arquitetura backend e boas práticas de desenvolvimento.
+
+Meu objetivo é construir soluções escaláveis e conquistar uma oportunidade como Desenvolvedor Backend Python.
+
+---
+
+# 🚀 Atualmente estudando
 
 - Python Avançado
 - FastAPI
@@ -18,89 +42,153 @@ Meu objetivo é conquistar uma oportunidade como **Desenvolvedor Backend Python*
 - Docker
 - Selenium
 - Testes Automatizados
-- Arquitetura Backend
+- Arquitetura de Software
 - APIs REST
 - Git e GitHub
-- Inglês 🇺🇸
+- Inglês
 
 ---
 
-## 🛠️ Tecnologias
+# 💻 Stack
 
-### 👨‍💻 Linguagens
+## Linguagem
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p>
 
-### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=python"/>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+</p>
 
-### 🗄️ Banco de Dados
+## Backend
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
 
-### 🧰 Ferramentas
+<img src="https://skillicons.dev/icons?i=fastapi,flask"/>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+</p>
+
+## Banco de Dados
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
+
+</p>
+
+## Ferramentas
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode"/>
+
+</p>
 
 ---
 
-## 📚 Projetos
+# 📚 Projetos em Destaque
 
-Aqui você encontrará projetos que representam minha evolução como desenvolvedor Backend.
+## 🏥 Agenda Médica
 
-Os principais temas presentes nos meus repositórios são:
+Sistema desenvolvido em Flask para gerenciamento de consultas médicas.
 
-- APIs REST com FastAPI e Flask
-- Autenticação de usuários
+### Funcionalidades
+
+- Cadastro de pacientes
+- Cadastro de médicos
+- Agendamento de consultas
+- Banco de Dados
+- Interface Web
+
+---
+
+## ⚡ API REST com FastAPI
+
+Projeto desenvolvido para estudo de APIs REST.
+
+### Funcionalidades
+
 - CRUD completo
-- Banco de Dados Relacional
 - SQLAlchemy
-- Automação com Selenium
-- Arquitetura Backend
-- Integração entre aplicações
-- Projetos voltados para problemas reais
-
-Cada projeto foi desenvolvido para consolidar conhecimentos e aplicar boas práticas de desenvolvimento de software.
+- PostgreSQL
+- Validação com Pydantic
+- Organização em camadas
 
 ---
 
-## 🎯 Objetivos
+## 🤖 Automações com Selenium
 
-- 🚀 Conquistar uma oportunidade como Desenvolvedor Backend Python.
-- 🏗️ Aprimorar conhecimentos em arquitetura de software.
-- 🐳 Dominar Docker e conteinerização.
-- ⚡ Desenvolver APIs escaláveis utilizando FastAPI.
-- 🧪 Aprender testes automatizados.
-- 📊 Evoluir futuramente para Engenharia de Dados.
-- 🌍 Contribuir para projetos Open Source.
+Projetos voltados para automação de tarefas utilizando Selenium.
 
 ---
 
-## 📈 Estatísticas
+# 🎯 Objetivos
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitor-nery11&show_icons=true&theme=tokyonight&hide_border=true)
+- Conseguir minha primeira oportunidade como Desenvolvedor Backend Python
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-nery11&layout=compact&theme=tokyonight&hide_border=true)
+- Aprimorar arquitetura de software
+
+- Dominar Docker
+
+- Aprender CI/CD
+
+- Contribuir para projetos Open Source
+
+- Evoluir futuramente para Engenharia de Dados
 
 ---
 
-## 📫 Contato
+# 📈 Estatísticas
 
-💼 LinkedIn  
-https://www.linkedin.com/in/vitor-nery-dev/
+<p align="center">
 
-📧 Email  
-vitornerysantos24@gmail.com
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=vitor-nery11&show_icons=true&theme=tokyonight"/>
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-nery11&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 Sequência de Contribuições
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=vitor-nery11&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📫 Contato
+
+<p>
+
+<a href="mailto:vitornerysantos24@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/vitor-nery-dev">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/vitor-nery11">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
+
+---
+
+# 💡 Frase
+
+> "A prática transforma conhecimento em experiência."
 
 ---
 
 ⭐ Obrigado por visitar meu perfil!
 
-Fique à vontade para explorar meus projetos, acompanhar minha evolução e trocar experiências sobre desenvolvimento Backend com Python.
+Se gostou de algum projeto, deixe uma ⭐ e fique à vontade para entrar em contato.
