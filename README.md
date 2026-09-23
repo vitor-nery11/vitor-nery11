@@ -1,4 +1,4 @@
-# Olá, eu sou o Vitor Nery! 👋
+# Olá, eu sou o Vitor Nery! 
 
 <div align="center">
   <a href="https://linkedin.com/in/vitor-nery-dev" target="_blank">
@@ -13,15 +13,15 @@
 
 ### Sobre Mim
 
-* 🎓 Cursando **Bacharelado em Engenharia de Software** (4º semestre) na Faculdade Anhanguera.
-* 💼 Atuação profissional em infraestrutura de TI e suporte na Anhanguera Educacional.
-* 🚀 Experiência prática na construção de aplicações web de ponta a ponta: do design responsivo em **React, Next.js e TypeScript** à arquitetura de APIs robustas em **Python (FastAPI, Flask)** e **Node.js (Express)**.
-* 🛠️ Foco em boas práticas de engenharia de software: arquitetura em camadas, autenticação segura com **JWT**, modelagem relacional com **PostgreSQL**, testes automatizados com **pytest** e conteinerização com **Docker**.
-* 📍 Bahia, Brasil.
+* Cursando **Bacharelado em Engenharia de Software** (4º semestre) na Faculdade Anhanguera.
+* Atuação profissional em infraestrutura de TI e suporte na Anhanguera Educacional.
+* Experiência prática na construção de aplicações web de ponta a ponta: do design responsivo em **React, Next.js e TypeScript** à arquitetura de APIs robustas em **Python (FastAPI, Flask)** e **Node.js (Express)**.
+* Foco em boas práticas de engenharia de software: arquitetura em camadas, autenticação segura com **JWT**, modelagem relacional com **PostgreSQL**, testes automatizados com **pytest** e conteinerização com **Docker**.
+* Bahia, Brasil.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 #### **Front-End**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -57,7 +57,7 @@
 
 ---
 
-### 🚀 Projetos em Destaque
+### Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias Principais | Repositório |
 | :--- | :--- | :--- | :---: |
@@ -67,7 +67,7 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### Estatísticas do GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vitor-nery11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas de Vitor Nery" height="150" />
